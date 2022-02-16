@@ -33,5 +33,12 @@
         "url": "https://raw.githubusercontent.com/ProjectStreak/wallpapers/main/img/wallpaper_4.png",
         "downloadable": true,
         "dimensions": "1080x2134"
+    },
+    {
+        "name": "BMW M4CLS",
+        "author": "Martin Katler",
+        "url": "https://raw.githubusercontent.com/ProjectStreak/wallpapers/main/img/wallpaper_6.jpg",
+        "downloadable": true,
+        "dimensions": "3717x6608"
     }
 ]
